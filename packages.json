@@ -1,13 +1,34 @@
 {
   "packages": {
     "chame1eon/pager": {
-      "1.0.1": { @composer.json }
+      "1.0.1": {
+        "name": "chame1e0n/pager",
+        "version": "1.0.1",
+        "dist": {
+          "url": "https://github.com/chame1e0n/pager/archive/1.0.1.zip",
+          "type": "zip"
+        }
+      }
     },
     "chame1eon/hello": {
-      "dev-master": { @composer.json }
+      "dev-master": {
+        "name": "chame1e0n/hello",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/chame1e0n/hello",
+          "type": "vcs"
+        }
+      }
     },
     "willdurand/negotiation": {
-      "dev-test_branch": { @composer.json }
+      "dev-test_branch": {
+        "name": "willdurand/negotiation",
+        "version": "dev-test_branch",
+        "source": {
+          "url": "https://github.com/chame1e0n/negotiation",
+          "type": "vcs"
+        }
+      }
     }
   }
 }
