@@ -16,7 +16,8 @@
         "version": "dev-master",
         "source": {
           "url": "https://github.com/chame1e0n/hello",
-          "type": "vcs"
+          "type": "vcs",
+          "reference": "tags/v1.0"
         }
       }
     },
@@ -26,7 +27,8 @@
         "version": "dev-test_branch",
         "source": {
           "url": "https://github.com/chame1e0n/negotiation",
-          "type": "vcs"
+          "type": "vcs",
+          "reference": "tags/3.0.0-alpha3"
         }
       }
     }
