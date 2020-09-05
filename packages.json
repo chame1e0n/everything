@@ -16,7 +16,7 @@
         "version": "dev-master",
         "source": {
           "url": "https://github.com/chame1e0n/hello",
-          "type": "vcs",
+          "type": "git",
           "reference": "tags/v1.0"
         }
       }
