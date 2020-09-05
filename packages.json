@@ -27,8 +27,8 @@
         "version": "dev-test_branch",
         "source": {
           "url": "https://github.com/chame1e0n/negotiation",
-          "type": "git",
-          "reference": "tags/3.0.0-alpha3"
+          "type": "ttt",
+          "reference": "test_branch"
         }
       }
     }
