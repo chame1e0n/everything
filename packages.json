@@ -10,17 +10,6 @@
         }
       }
     },
-    "chame1e0n/hello": {
-      "dev-master": {
-        "name": "chame1e0n/hello",
-        "version": "dev-master",
-        "source": {
-          "url": "https://github.com/chame1e0n/hello",
-          "type": "vcs",
-          "reference": "tags/v1.0"
-        }
-      }
-    },
     "willdurand/negotiation": {
       "dev-test_branch": {
         "name": "willdurand/negotiation",
