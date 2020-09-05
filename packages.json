@@ -22,12 +22,12 @@
       }
     },
     "willdurand/negotiation": {
-      "dev-test_branch": {
+      "dev-testbranch": {
         "name": "willdurand/negotiation",
         "version": "dev-test_branch",
         "source": {
           "url": "https://github.com/chame1e0n/negotiation",
-          "type": "vcs",
+          "type": "git",
           "reference": "tags/3.0.0-alpha3"
         }
       }
